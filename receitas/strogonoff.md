@@ -1,6 +1,6 @@
-# 	Strogonoff de Frango:chicken:
+# Strogonoff de Frango
 
-## 		Ingredientes:
+## Ingredientes: 
 
 - Frango cortado em cubos
 - Cebola picada
@@ -14,7 +14,7 @@
 - Creme de leite
 - Sal e pimenta a gosto
 
-### 		**Modo de Preparo:**
+### Modo de Preparo:
 
 1. Aqueça uma panela em fogo médio e adicione manteiga ou óleo.
 2. Adicione a cebola picada e refogue até que fique macia e translúcida.
@@ -26,12 +26,3 @@
 8. Adicione o creme de leite à panela e misture bem.
 9. Tempere com sal e pimenta a gosto.
 10. Sirva o strogonoff de frango com arroz e batata palha.
-
-
-
-### 
-
-
-
-
-
